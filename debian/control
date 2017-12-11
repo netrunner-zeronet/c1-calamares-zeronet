@@ -1,15 +1,15 @@
-Source: c1-calamares-core
+Source: c1-calamares-zeronet
 Section: devel
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>= 9), dh-systemd
 Standards-Version: 3.9.6
-Homepage: https://github.com/netrunner-odroid/c1-calamares-core
+Homepage: https://github.com/netrunner-odroid/c1-calamares-zeronet
 
-Package: c1-calamares-core
+Package: c1-calamares-zeronet
 Architecture: armhf
 Depends: calamares
 Description: distribution-independent installer framework
  distribution-independent installer framework.
  .
- This package contains the c1-calamares-core settings and branding for Netrunner Debian Core.
+ This package contains the c1-calamares-zeronet settings and branding for Netrunner.

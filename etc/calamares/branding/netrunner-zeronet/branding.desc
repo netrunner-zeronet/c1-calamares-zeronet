@@ -4,12 +4,12 @@ windowExpanding: noexpand
 
 strings:
     productName:         Zerobox
-    shortProductName:    Core
-    version:             19.01.0-dev
-    shortVersion:        19.01
-    versionedName:       Netrunner Core
-    shortVersionedName:  Netrunner Core 19.01
-    bootloaderEntryName: Netrunner Core
+    shortProductName:    Zeronet
+    version:             20.01.0-dev
+    shortVersion:        20.01
+    versionedName:       Netrunner Core Zeronet
+    shortVersionedName:  Netrunner Core Zeronet 20.01
+    bootloaderEntryName: Netrunner Core Zeronet
 
 images:
     productLogo:         "zerobox-logo.png"
